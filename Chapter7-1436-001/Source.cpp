@@ -47,7 +47,7 @@ int main()
     //[] -> index operator / subscript operator 
 
     //cout << s1[s1.length() - 2] << endl;
-    //cout << s2[1] << endl;
+    //cout << s2[1] << endl;    
     //int array[3] = {1, 2, 3} //ITSE 1302 
 
 
